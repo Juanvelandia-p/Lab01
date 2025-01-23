@@ -7,3 +7,5 @@ Git lel
 Pruebas README
 Problemas 2
 Nuevo cambio
+Conflicto README
+Nuevo conflicto
