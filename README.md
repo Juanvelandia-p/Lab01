@@ -2,5 +2,6 @@ INTEGRANTES
 Juan Sebastian Velandia Pedraza
 Juan Felipe Ochoa Guerrero
 
-RESPUESTAS
+RESPUESTAS 
+Git lel
 Pruebas README
